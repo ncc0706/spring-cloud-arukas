@@ -1,3 +1,0 @@
-spring:
-  config:
-    name: configserver # 如果指定了configserver默认端口则为8888
